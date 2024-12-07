@@ -2,3 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+nav ul {
+  list-style: none;    /* Remove default bullets */
+  margin: 0;
+  padding: 0;
+  display: flex;       /* Displays list items in a row */
+  align-items: center; /* Vertically center the items if desired */
+}
+
+nav li {
+  margin-right: 1rem;  /* Space between navigation items */
+}
+
+nav li:last-child {
+  margin-right: 0;     /* Optional: remove margin from the last item */
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;       /* Inherit text color from parent */
+  font-weight: bold;    /* Make links stand out */
+}
+
+nav a:hover {
+  text-decoration: underline; /* Add a hover effect */
+}
