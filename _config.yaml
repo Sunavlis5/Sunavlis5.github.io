@@ -5,3 +5,19 @@ plugins:
 
 title: [SIL DAR]
 description: [Hello!, Welcome to my academic website]
+
+author: Silvanus Darkey Junior
+timezone: UTC
+
+# Add your navigation links here, which you'll render in the header
+navigation:
+  - name: "Home"
+    url: "/"
+  - name: "Research"
+    url: "/research"
+  - name: "Publications"
+    url: "/publications"
+  - name: "Teaching"
+    url: "/teaching"
+  - name: "CV"
+    url: "/cv"
