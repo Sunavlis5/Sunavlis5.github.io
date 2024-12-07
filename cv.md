@@ -2,7 +2,7 @@
 layout: page
 title: "Curriculum Vitae"
 ---
-[Download my CV (PDF)](/assets/cv.pdf)
+[Download my CV (PDF)](/assets/Sjdarkey_CV_(2024).pdf)
 
 ## Education
 - Ph.D. in Something, University Name (Year)
