@@ -19,4 +19,4 @@ navigation:
   - name: "Teaching"
     url: "/teaching"
   - name: "CV"
-    url: "/cv.md"
+    url: "/cv"
